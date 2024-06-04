@@ -1,2 +1,2 @@
 # TVSITEDEMO
-This is the basis I made for the project
+This is the basis for which I made the idea for the project
